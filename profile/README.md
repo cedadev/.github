@@ -6,6 +6,7 @@ Welcome to the github area for the CEDA Developers team. Below are listed some o
 
 | Package Name | Version |
 | ------------ | ------- |
-| PADOCC       | 1.3.1   |
-| CFAPyX       | 2025.1.29 |
+| PADOCC       | [![PyPI version](https://badge.fury.io/py/padocc.svg)](https://pypi.python.org/pypi/padocc/) |
+| CFAPyX       | [![PyPI version](https://badge.fury.io/py/cfapyx.svg)](https://pypi.python.org/pypi/cfapyx/) |
 | ceda-datapoint | [![PyPI version](https://badge.fury.io/py/ceda-datapoint.svg)](https://pypi.python.org/pypi/ceda-datapoint/) |
+| cfchecker | [![PyPI version](https://badge.fury.io/py/cfchecker.svg)](https://pypi.python.org/pypi/cfchecker/) |
