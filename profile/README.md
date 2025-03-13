@@ -1,6 +1,6 @@
 # Centre for Environmental Data Analysis Developers
 
-**content coming soon**
+Welcome to the github area for the CEDA Developers team. Below are listed some of the packages we maintain that are published to the Python Package Index (PyPI)
 
 ## Packages Deployed to PyPI
 
@@ -8,4 +8,4 @@
 | ------------ | ------- |
 | PADOCC       | 1.3.1   |
 | CFAPyX       | 2025.1.29 |
-| ceda-datapoint | 0.4.7 |
+| ceda-datapoint | [![PyPI version](https://badge.fury.io/py/ceda-datapoint.svg)](https://pypi.python.org/pypi/ceda-datapoint/) |
