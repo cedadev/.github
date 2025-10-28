@@ -6,12 +6,17 @@ Welcome to the github area for the CEDA Developers team. Below are listed some o
 
 | Package Name | Version |
 | ------------ | ------- |
-| PADOCC       | [![PyPI version](https://badge.fury.io/py/padocc.svg)](https://pypi.python.org/pypi/padocc/) |
-| CFAPyX       | [![PyPI version](https://badge.fury.io/py/cfapyx.svg)](https://pypi.python.org/pypi/cfapyx/) |
+| asset-scanner | [![PyPI version](https://badge.fury.io/py/asset-scanner.svg)](https://pypi.python.org/pypi/asset-scanner/) |
+| cci-facet-scanner | [![PyPI version](https://badge.fury.io/py/cci-facet-scanner.svg)](https://pypi.python.org/pypi/cci-facet-scanner/) |
+| cci-os-worker | [![PyPI version](https://badge.fury.io/py/cci-os-worker.svg)](https://pypi.python.org/pypi/cci-os-worker/) |
+| cci-tag-scanner | [![PyPI version](https://badge.fury.io/py/cci-tag-scanner.svg)](https://pypi.python.org/pypi/cci-tag-scanner/) |
 | ceda-datapoint | [![PyPI version](https://badge.fury.io/py/ceda-datapoint.svg)](https://pypi.python.org/pypi/ceda-datapoint/) |
-| cfchecker | [![PyPI version](https://badge.fury.io/py/cfchecker.svg)](https://pypi.python.org/pypi/cfchecker/) |
 | ceda-directory-tree | [![PyPI version](https://badge.fury.io/py/ceda-directory-tree.svg)](https://pypi.python.org/pypi/ceda-directory-tree/) |
 | cci-tag-scanner | [![PyPI version](https://badge.fury.io/py/cci-tag-scanner.svg)](https://pypi.python.org/pypi/cci-tag-scanner/) |
+| CFAPyX       | [![PyPI version](https://badge.fury.io/py/cfapyx.svg)](https://pypi.python.org/pypi/cfapyx/) |
+| PADOCC       | [![PyPI version](https://badge.fury.io/py/padocc.svg)](https://pypi.python.org/pypi/padocc/) |
+| S3netCDF4    | [![PyPI version](https://badge.fury.io/py/s3netcdf4.svg)](https://pypi.python.org/pypi/s3netcdf4/) |
+
 
 ## Internal Meetings
  - Monday: External Partnerships Focus
