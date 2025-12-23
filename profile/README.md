@@ -16,6 +16,7 @@ Welcome to the github area for the CEDA Developers team. Below are listed some o
 | ceda-flight-pipeline | [![PyPI version](https://badge.fury.io/py/ceda-flight-pipeline.svg)](https://pypi.python.org/pypi/ceda-flight-pipeline/) |
 | CFAPyX       | [![PyPI version](https://badge.fury.io/py/cfapyx.svg)](https://pypi.python.org/pypi/cfapyx/) |
 | esgf-playground-utils | [![PyPI version](https://badge.fury.io/py/esgf-playground-utils.svg)](https://pypi.python.org/pypi/esgf-playground-utils/) |
+| nlds-client  | [![PyPI version](https://badge.fury.io/py/nlds-client.svg)](https://pypi.python.org/pypi/nlds-client/) |
 | PADOCC       | [![PyPI version](https://badge.fury.io/py/padocc.svg)](https://pypi.python.org/pypi/padocc/) |
 | S3netCDF4    | [![PyPI version](https://badge.fury.io/py/s3netcdf4.svg)](https://pypi.python.org/pypi/s3netcdf4/) |
 | XarrayActive  | [![PyPI version](https://badge.fury.io/py/xarrayactive.svg)](https://pypi.python.org/pypi/xarrayactive/) |
