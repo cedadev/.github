@@ -10,7 +10,6 @@ Welcome to the github area for the CEDA Developers team. Below are listed some o
 | asset-scanner | [![PyPI version](https://badge.fury.io/py/asset-scanner.svg)](https://pypi.python.org/pypi/asset-scanner/) |
 | cci-facet-scanner | [![PyPI version](https://badge.fury.io/py/cci-facet-scanner.svg)](https://pypi.python.org/pypi/cci-facet-scanner/) |
 | cci-os-worker | [![PyPI version](https://badge.fury.io/py/cci-os-worker.svg)](https://pypi.python.org/pypi/cci-os-worker/) |
-| cci-tag-scanner | [![PyPI version](https://badge.fury.io/py/cci-tag-scanner.svg)](https://pypi.python.org/pypi/cci-tag-scanner/) |
 | ceda-datapoint | [![PyPI version](https://badge.fury.io/py/ceda-datapoint.svg)](https://pypi.python.org/pypi/ceda-datapoint/) |
 | ceda-directory-tree | [![PyPI version](https://badge.fury.io/py/ceda-directory-tree.svg)](https://pypi.python.org/pypi/ceda-directory-tree/) |
 | ceda-flight-pipeline | [![PyPI version](https://badge.fury.io/py/ceda-flight-pipeline.svg)](https://pypi.python.org/pypi/ceda-flight-pipeline/) |
