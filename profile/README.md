@@ -19,6 +19,7 @@ Welcome to the github area for the CEDA Developers team. Below are listed some o
 | PADOCC       | [![PyPI version](https://badge.fury.io/py/padocc.svg)](https://pypi.python.org/pypi/padocc/) |
 | S3netCDF4    | [![PyPI version](https://badge.fury.io/py/s3netcdf4.svg)](https://pypi.python.org/pypi/s3netcdf4/) |
 | XarrayActive  | [![PyPI version](https://badge.fury.io/py/xarrayactive.svg)](https://pypi.python.org/pypi/xarrayactive/) |
+| xfc-client  | [![PyPI version](https://badge.fury.io/py/xfc-client.svg)](https://pypi.python.org/pypi/xfc-client/) |
 
 
 ## Internal Meetings
